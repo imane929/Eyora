@@ -1,0 +1,50 @@
+eyora-project/
+├── index.php
+├── .htaccess
+├── db_script.sql
+├── css/
+│   ├── style.css
+│   └── theme.css
+├── js/
+|   ├── animations.js
+│   ├── main.js
+│   ├── contact.js
+│   └── theme-switcher.js
+├── controllers/
+│   ├── HomeController.php
+│   ├── ProductController.php
+│   └── ContactController.php
+├── models/
+│   ├── Database.php
+│   ├── Product.php
+│   └── Contact.php
+├── views/
+│   ├── header.php
+│   ├── footer.php
+│   ├── home.php
+│   ├── products.php
+│   └── contact.php
+├── api/
+│   └── get_product.php
+├── config.php
+└── assets/
+    ├── images/
+    │   ├── hero-glasses.png
+    │   ├── about-eyora.jpg
+    │   ├── glasses1.jpg
+    │   ├── glasses2.jpg
+    │   ├── glasses3.jpg
+    │   ├── glasses4.jpg
+    │   ├── glasses5.jpg
+    │   ├── sunglasses1.jpg
+    │   ├── sunglasses2.jpg
+    │   ├── sunglasses3.jpg
+    │   ├── sunglasses4.jpg
+    │   ├── sunglasses5.jpg
+    │   ├── fashion1.jpg
+    │   ├── fashion2.jpg
+    │   ├── fashion3.jpg
+    │   ├── fashion4.jpg
+    │   ├── fashion5.jpg
+    │   └── default-glasses.jpg
+    └── uploads/
